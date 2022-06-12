@@ -32,9 +32,22 @@ EIN, NAME
 ### Compiling, Training, and Evaluating the Model
 
 How many neurons, layers, and activation functions did you select for your neural network model, and why?
+I used 43 input features with 80 nodes in first layer and 30 nodes in the 2nd layer.  This brought me to an accuracy score of 72.85%
+Sticking wiht the 80/30 model, i utilized the trainscale fit. 
 
 Were you able to achieve the target model performance?
-
-What steps did you take to try and increase model performance?
+I was not able to achieve the target model, I hovered around 73% accuracy for all 3 attempts.
 
 ## Summary
+
+1st attempt
+![image](https://user-images.githubusercontent.com/98061420/173250256-7775bac6-9b09-438d-aae2-90bcf8b398b4.png)
+
+
+2nd attempt
+![image](https://user-images.githubusercontent.com/98061420/173250266-970a7db8-59ad-4a01-92c7-88464dbc8f3c.png)
+
+
+3rd attempt
+![image](https://user-images.githubusercontent.com/98061420/173250272-4e9f8ade-4d07-471c-be2f-d01f5a238111.png)
+
